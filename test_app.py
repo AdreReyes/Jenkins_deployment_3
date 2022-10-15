@@ -1,4 +1,4 @@
-from application import app, greet import 
+from application import app, import greet
 from flask import Flask
 from flask import request
 
